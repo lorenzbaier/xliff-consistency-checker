@@ -15,5 +15,8 @@
   },
   "dependencies": {
     "fast-xml-parser": "^4.2.0"
+  },
+  "bin": {
+    "xliffchecker": "lib/index.js"
   }
 }
