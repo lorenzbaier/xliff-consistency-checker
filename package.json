@@ -8,7 +8,7 @@
     "test": "npx tsc && node lib/index.js ./examples/messages.fr.xlf ./examples/messages2.fr.xlf"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
